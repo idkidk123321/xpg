@@ -9,7 +9,8 @@ local keys = {
     ["BECK"] = {7748473732},
     ["ANDREY"] = {1041096517},
     ["ZECAURUBU"] = {26598860, 689667856},
-    ["NARIGUDO"] = {10308059583}
+    ["NARIGUDO"] = {10308059583},
+    ["BIEL"] = {8605514820}
 }
 
 return keys
