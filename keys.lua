@@ -1,5 +1,5 @@
 local keys = {
-    ["isso"] = {11459092603}
+    ["test"] = {11459092603},
 }
 
 return keys
